@@ -4,3 +4,4 @@ Push
 Clone
 Pull
 Them vao o local chưa update to git hub
+Sửa newbie, để xem trong master có thay đổi hay không?
