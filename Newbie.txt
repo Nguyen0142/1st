@@ -3,3 +3,4 @@ Tạo Git
 Push
 Clone
 Pull
+Them vao o local chưa update to git hub
